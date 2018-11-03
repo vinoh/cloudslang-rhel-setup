@@ -27,33 +27,33 @@
 We now want to install Red hat Linux as guest to our Virtual Box, following the steps listed below: 
 
 1. Once you boot the VM, this brings us to the boot screen and you can select the first option to start the installation:
-![Start Install RHEL 7](images/installation_1.png)
+![Start Install RHEL 7](images/installation_1.PNG)
 
 2. Select your language of choice at the opening menu:
-![Select Language](images/installation_2.png) 
+![Select Language](images/installation_2.PNG) 
 
 3. This brings you to the options page. You will see that the Begin Installation button is not lit because we need to set up a few things first. Start by choosing the install type you want. For simplicity, I’ve selected Minimal Install.
 
 4. Open up the System section to choose the hard disk:
-![Install Disk](images/installation_3.png)
+![Install Disk](images/installation_3.PNG)
 
 5. Now you will see the Begin Installation button is lit up and ready to go! Go for it ?
-![Install Begin](images/installation_4.png)
+![Install Begin](images/installation_4.PNG)
 
 6. With the install underway, we can configure the root password and also set up a non-root user for you to use.
-![Install Begin](images/installation_5.png)
+![Install Begin](images/installation_5.PNG)
 
 7. Root password needs to be reasonably complex:
-![Install Begin](images/installation_6.png)
+![Install Begin](images/installation_6.PNG)
 
 8. Next up you can configure the non-root user for daily administration. Obviously, you will fill in your information rather than mine in here…unless you want me to have access that is:
-![Install Begin](images/installation_7.png)
+![Install Begin](images/installation_7.PNG)
 
 9. As quickly as it started, it’s all done! (results may vary depending on internet and hard drive speeds):
-![Install Begin](images/installation_8.png)
+![Install Begin](images/installation_8.PNG)
 
 10. Once you reboot the server after the installation completes, you’ll find yourself at the initial login prompt enter the password and you are done!
-![Install Begin](images/installation_9.png)
+![Install Begin](images/installation_9.PNG)
 
 # Getting Started in CloudSlang
 ### Installing JAVA
